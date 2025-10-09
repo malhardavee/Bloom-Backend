@@ -117,7 +117,8 @@ How to Test Using Postman
 
 ---------------------------------------------------------------------
 👥 Team
-	•	Malhar Dave – Backend Development (Node.js + MySQL)
+
+  •	Malhar Dave – Backend Development (Node.js + MySQL)
   
   •	Adarsh Khot – Frontend Development (UI & Interaction)
 

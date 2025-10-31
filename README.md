@@ -11,7 +11,30 @@ We’ve kept it simple and lightweight:
 	•	Node.js + Express.js for the backend server
 	•	MySQL for data storage
 
-------------------------------------------------------------------
+---------------------------------------------------------------------
+👥 Team
+
+  •	Malhar Dave – Backend Development (Node.js with Express.js + MySQL)
+  
+  •	Adarsh Khot – Frontend Development (UI & Interaction)
+
+---------------------------------------------------------------------
+
+Ideation
+
+Bloom reflects how our habits shape our well-being — if you nurture yourself, your plant thrives; if you neglect it, it fades.
+
+It’s a simple way to visualize balance, care, and consistency in daily life.
+
+---------------------------------------------------------------------
+
+About the Project
+
+Bloom isn’t just a website, it’s a small reminder that the way we treat ourselves shows up in what we nurture.
+
+Every log you enter is like watering your plant — small habits, big growth. 
+
+---------------------------------------------------------------------
 1. Setup MySQL database
 
 CREATE DATABASE bloom;
@@ -116,28 +139,5 @@ How to Test Using Postman
    to view the latest log and plant state.
 
 ---------------------------------------------------------------------
-👥 Team
-
-  •	Malhar Dave – Backend Development (Node.js + MySQL)
-  
-  •	Adarsh Khot – Frontend Development (UI & Interaction)
-
----------------------------------------------------------------------
-
-Ideation
-
-Bloom reflects how our habits shape our well-being — if you nurture yourself, your plant thrives; if you neglect it, it fades.
-
-It’s a simple way to visualize balance, care, and consistency in daily life.
-
----------------------------------------------------------------------
-
-About the Project
-
-Bloom isn’t just a website, it’s a small reminder that the way we treat ourselves shows up in what we nurture.
-
-Every log you enter is like watering your plant — small habits, big growth. 
-
-
 
 🌻 Thank you for exploring Bloom!
